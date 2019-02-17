@@ -8,6 +8,8 @@
 - **.gitignore** - Determines which files to ignore.
 - **404.html** - File for code that brings up the error page.
 - **browserconfig.xml** - Used to define things like title backgrounds and badge updates.
+- **favicon.ico** - Contains small icon image that represents the website.
+- **humans.txt** - Used to give credit to the humans responsible for what was made and the technology used.
 
 
 
