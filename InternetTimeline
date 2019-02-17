@@ -33,6 +33,9 @@
 1974 - The term "Internet" was used for first time in Vint Cerf & Robert Kahn publication.
 1974 - A commercial version of ARPAnet, Telenet.
 1977 - Lawrence Landweber created Computer Science Network (CSNET).
+1980-1989 - Radia Perlman designs IS-S (Intermediate System to Intermediate System) protocol for routing IP, which
+        continues to be used today, and the Spanning Tree algorithm, which allows the Ethernet to handle large clouds
+        of data.
 1980 - Mike Jensen begins building some of the earliest networks to connect the nonprofit sector, playing a key role
        in establishing network connectivity for developing countries.
-1980- Jaap Akkerhuis Helps Connect the Netherlands and Europe, setting stage for global connectors.
+1980 - Jaap Akkerhuis Helps Connect the Netherlands and Europe, setting stage for global connectors.
