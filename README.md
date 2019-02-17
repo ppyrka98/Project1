@@ -2,5 +2,8 @@
 # BoilerPlate
 - **Doc folder** - Contains various information on different parts relating to the BoilerPlate project like FAQ's, the default javascript, info about customising your boilerplate,etc.
 - **img folder** - Contains the project's .gitignore file
+- **js folder** - Has two javascript files. One that is the main and another that handles console errors in browsers that lack console.
+- **.editorconfig** - File that contains info on the format for coding style and collection of text editor plugins that allow editors to read the file format.
+
 
 
