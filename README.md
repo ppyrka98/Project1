@@ -12,7 +12,8 @@
 - **humans.txt** - Used to give credit to the humans responsible for what was made and the technology used.
 - **icon.png** - Contains image of icon for website that can be scaled down.
 - **robots.txt** - Standard used by websites to communicate with other web robots.
-
+- **site.webmanifest** - Provides info about the application like name, author, icon, and description.
+- **tile-wide.png** - Image that can be used for wide tile.
 
 
 
