@@ -6,5 +6,9 @@
 - **.editorconfig** - File that contains info on the format for coding style and collection of text editor plugins that allow editors to read the file format.
 - **.gitattributes** - Text file that gives attributes to pathnames.
 - **.gitignore** - Determines which files to ignore.
+- **404.html** - File for code that brings up the error page.
+- **browserconfig.xml** - Used to define things like title backgrounds and badge updates.
+
+
 
 
