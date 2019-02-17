@@ -1,2 +1,38 @@
 # Brief history of the Internet
 1957 - USSR launched Sputnik into space which allowed global communications.
+1961 - Leonard Kleinrock pioneered packet-switching at MIT in his doctoral thesis.
+1962 - J.C.R. Licklider wrote memos about Intergalactic Network concepts of networked computers.
+1963 - American Standard Code for Information Exchange (ASCII) is developed.
+1964-1967 - Paul Baran & Donald Davies develop Message blocks/packet-switching.
+1965 - Lawrence Roberts & Thomas Marill create the first Wide-area Network(WAN)
+1966 - ARPAnet Project initiated (the foundation of today's Internet).
+1967 - First ARPAnet design paper was lead and published by Lawrence Roberts. Were called IMPs, but today, routers.
+1967 - Donal Davies published first Packet-switching paper.
+1967 - First real-time visual flight simulator on a general purpose computer was developed (led to computer graphics
+       line clipping algorithms.
+1968 - Hypertexting and collaborative computing was introduced by Engelbart
+1968 - BBN is awarded the ARPA contract to build the Interface Message Processors.
+1968 - Host level protocols for ARPAnet communications were developed at UCLA (laid foundation for protocols of the
+       modern Internet.
+1969 - The physical Interface Message Processor (IMP) network is made, linking 4 nodes.
+1969 - First data packets were sent by UCLA team.
+1970-1979 - Dr. David Clark implemented Internet protocols for the Multics systems, the Xerox PARC ALTO and the IBM PC.
+1970 - Peter Kirstein started European ARPAnet.
+1972 - IMP Network grew to fifteen nodes (23 hosts).
+1972 - The Email program to send message across a distributed network was invented by Ray Tomlinson of BBN.
+1972 - John Postel helps create first Internet address registry, which later becomes Internet Assigned Number Authority
+       (IANA), who administer IP addresses.
+1973 - Ethernet was created at Xerox Parc.
+1973 - Development of TCP/IP begins, which allowed diverse computer networks to interconnect and communicate with
+       each other.
+1973 - First international ARPAnet Link was made.
+1974 - Elizabeth Feinler begins to help lead SRI International’s Network Information Center (NIC), where her group
+       eventually develops the first Internet “yellow-” and “white-page” servers, the first query-based network host
+       name and address (WHOIS) server, and the Host Naming Registry for the Internet. As a part of this effort she
+       and her group develop the top-level domain naming schemes of .com, .edu, .gov, .mil, .org, and .net.
+1974 - The term "Internet" was used for first time in Vint Cerf & Robert Kahn publication.
+1974 - A commercial version of ARPAnet, Telenet.
+1977 - Lawrence Landweber created Computer Science Network (CSNET).
+1980 - Mike Jensen begins building some of the earliest networks to connect the nonprofit sector, playing a key role
+       in establishing network connectivity for developing countries.
+1980- Jaap Akkerhuis Helps Connect the Netherlands and Europe, setting stage for global connectors.
