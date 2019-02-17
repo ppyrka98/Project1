@@ -14,6 +14,8 @@
 - **robots.txt** - Standard used by websites to communicate with other web robots.
 - **site.webmanifest** - Provides info about the application like name, author, icon, and description.
 - **tile-wide.png** - Image that can be used for wide tile.
+- **tile.png** - Image that can be used for small, medium, or large tiles.
+
 
 
 
