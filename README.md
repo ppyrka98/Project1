@@ -10,6 +10,8 @@
 - **browserconfig.xml** - Used to define things like title backgrounds and badge updates.
 - **favicon.ico** - Contains small icon image that represents the website.
 - **humans.txt** - Used to give credit to the humans responsible for what was made and the technology used.
+- **icon.png** - Contains image of icon for website that can be scaled down.
+- **robots.txt** - Standard used by websites to communicate with other web robots.
 
 
 
