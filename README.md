@@ -7,7 +7,7 @@
 - **.gitattributes** - Text file that gives attributes to pathnames.
 - **.gitignore** - Determines which files to ignore.
 - **404.html** - File for code that brings up the error page.
-- **browserconfig.xml** - Used to define things like title backgrounds and badge updates.
+- **browserconfig.xml** - Used to define things like title backgrounds and badge updates. Also,  It lets you set these images using external XML files.
 - **favicon.ico** - Contains small icon image that represents the website.
 - **humans.txt** - Used to give credit to the humans responsible for what was made and the technology used.
 - **icon.png** - Contains image of icon for website that can be scaled down.
