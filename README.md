@@ -4,6 +4,7 @@
 - **img folder** - Contains the project's .gitignore file
 - **js folder** - Has two javascript files. One that is the main and another that handles console errors in browsers that lack console.
 - **.editorconfig** - File that contains info on the format for coding style and collection of text editor plugins that allow editors to read the file format.
-
+- **.gitattributes** - Text file that gives attributes to pathnames.
+- **.gitignore** - Determines which files to ignore.
 
 
