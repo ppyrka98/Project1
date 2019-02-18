@@ -31,6 +31,14 @@
 12. Provides an image for the page that will be used on an apple device.
 13. Comment about placing favicon.ico in the root directory.
 14. (space)
-
+15. Specifies the relationship between html file and the stylesheet you are linking.
+16. Specifies the file that is a stylesheet that contains CSS rules.
+17. Closes all the things that will be contain in head of the document.
+18. (space)
+19. Begins defining the document's body.
+20. Comment about the if you are using outdated browser and where to update it.
+21. (continuation from last line)
+22. (continuation from last line)
+23. (space)
 
 
