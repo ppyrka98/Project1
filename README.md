@@ -27,5 +27,10 @@
 8. Provides info about the document and a description of it.
 9. Used to scale and set the viewport to a specific size so that it fits nicely.
 10. (space)
+11. Deploys the web manifest into the html page.
+12. Provides an image for the page that will be used on an apple device.
+13. Comment about placing favicon.ico in the root directory.
+14. (space)
+
 
 
