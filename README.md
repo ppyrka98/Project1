@@ -17,7 +17,7 @@
 - **tile.png** - Image that can be used for small, medium, or large tiles.
 
 **index.html**
-1. declares that the document type will be HTML.
+1. Declares that the document type will be HTML.
 2. Removes the "no-js" class when javascript is available, otherwise it leaves it there.
 3. (space)
 4. Initiates the container for the metadata for the file
