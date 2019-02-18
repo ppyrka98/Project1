@@ -1,38 +1,153 @@
 # Brief history of the Internet
-1957 - USSR launched Sputnik into space which allowed global communications.
-1961 - Leonard Kleinrock pioneered packet-switching at MIT in his doctoral thesis.
-1962 - J.C.R. Licklider wrote memos about Intergalactic Network concepts of networked computers.
-1963 - American Standard Code for Information Exchange (ASCII) is developed.
-1964-1967 - Paul Baran & Donald Davies develop Message blocks/packet-switching.
-1965 - Lawrence Roberts & Thomas Marill create the first Wide-area Network(WAN)
-1966 - ARPAnet Project initiated (the foundation of today's Internet).
-1967 - First ARPAnet design paper was lead and published by Lawrence Roberts. Were called IMPs, but today, routers.
-1967 - Donal Davies published first Packet-switching paper.
-1967 - First real-time visual flight simulator on a general purpose computer was developed (led to computer graphics
-       line clipping algorithms.
-1968 - Hypertexting and collaborative computing was introduced by Engelbart
-1968 - BBN is awarded the ARPA contract to build the Interface Message Processors.
-1968 - Host level protocols for ARPAnet communications were developed at UCLA (laid foundation for protocols of the
-       modern Internet.
-1969 - The physical Interface Message Processor (IMP) network is made, linking 4 nodes.
-1969 - First data packets were sent by UCLA team.
-1970-1979 - Dr. David Clark implemented Internet protocols for the Multics systems, the Xerox PARC ALTO and the IBM PC.
-1970 - Peter Kirstein started European ARPAnet.
-1972 - IMP Network grew to fifteen nodes (23 hosts).
-1972 - The Email program to send message across a distributed network was invented by Ray Tomlinson of BBN.
-1972 - John Postel helps create first Internet address registry, which later becomes Internet Assigned Number Authority
-       (IANA), who administer IP addresses.
-1973 - Ethernet was created at Xerox Parc.
-1973 - Development of TCP/IP begins, which allowed diverse computer networks to interconnect and communicate with
-       each other.
-1973 - First international ARPAnet Link was made.
-1974 - Elizabeth Feinler begins to help lead SRI International’s Network Information Center (NIC), where her group
-       eventually develops the first Internet “yellow-” and “white-page” servers, the first query-based network host
-       name and address (WHOIS) server, and the Host Naming Registry for the Internet. As a part of this effort she
-       and her group develop the top-level domain naming schemes of .com, .edu, .gov, .mil, .org, and .net.
-1974 - The term "Internet" was used for first time in Vint Cerf & Robert Kahn publication.
-1974 - A commercial version of ARPAnet, Telenet.
-1977 - Lawrence Landweber created Computer Science Network (CSNET).
-1980 - Mike Jensen begins building some of the earliest networks to connect the nonprofit sector, playing a key role
-       in establishing network connectivity for developing countries.
-1980- Jaap Akkerhuis Helps Connect the Netherlands and Europe, setting stage for global connectors.
+1957    -   USSR launched Sputnik into space which allowed global communications.
+
+1961    -   Leonard Kleinrock pioneered packet-switching at MIT in his doctoral thesis.
+
+1962    -   J.C.R. Licklider wrote memos about Intergalactic Network concepts of networked computers.
+
+1963    -   American Standard Code for Information Exchange (ASCII) is developed.
+
+1964-67 -   Paul Baran & Donald Davies develop Message blocks/packet-switching.
+
+1965    -   Lawrence Roberts & Thomas Marill create the first Wide-area Network(WAN)
+
+1966    -   ARPAnet Project initiated (the foundation of today's Internet).
+
+1967    -   First ARPAnet design paper was lead and published by Lawrence Roberts. Were called IMPs, but today, routers.
+
+1967    -   Donal Davies published first Packet-switching paper.
+
+1967    -   First real-time visual flight simulator on a general purpose computer was developed (led to computer
+            graphics line clipping algorithms.
+1968    -   Hypertexting and collaborative computing was introduced by Engelbart
+
+1968    -   BBN is awarded the ARPA contract to build the Interface Message Processors.
+
+1968    -   Host level protocols for ARPAnet communications were developed at UCLA (laid foundation for protocols of the
+            modern Internet.
+
+1969    -   The physical Interface Message Processor (IMP) network is made, linking 4 nodes.
+
+1969    -   First data packets were sent by UCLA team.
+
+1970-79 -   Dr. David Clark implemented Internet protocols for the Multics systems, the Xerox PARC ALTO and the IBM PC.
+
+1970    -   Peter Kirstein started European ARPAnet.
+
+1972    -   IMP Network grew to fifteen nodes (23 hosts).
+
+1972    -   The Email program to send message across a distributed network was invented by Ray Tomlinson of BBN.
+
+1972    -   John Postel helps create first Internet address registry, which later becomes Internet Assigned Number
+            Authority(IANA), who administer IP addresses.
+
+1973    -   Ethernet was created at Xerox Parc.
+
+1973    -   Development of TCP/IP begins, which allowed diverse computer networks to interconnect and communicate with
+            each other.
+
+1973    -   First international ARPAnet Link was made.
+
+1974    -   Elizabeth Feinler begins to help lead SRI International’s Network Information Center (NIC), where her group
+            eventually develops the first Internet “yellow-” and “white-page” servers, the first query-based network
+            host name and address (WHOIS) server, and the Host Naming Registry for the Internet. As a part of this
+            effort she and her group develop the top-level domain naming schemes of .com, .edu, .gov, .mil, .org, and
+             .net.
+
+1974    -   The term "Internet" was used for first time in Vint Cerf & Robert Kahn publication.
+
+1974    -   A commercial version of ARPAnet, Telenet.
+
+1977    -   Lawrence Landweber created Computer Science Network (CSNET).
+
+1980-89 -   Radia Perlman designs IS-S (Intermediate System to Intermediate System) protocol for routing IP, which
+            continues to be used today, and the Spanning Tree algorithm, which allows the Ethernet to handle large
+            clouds
+
+1980-89 -   Internet Activities Board (IAB) was established to set early Internet technical standards.
+
+1980-89 -   Lawrence Landweber established first network gateways between U.S. and European countries.
+
+1980    -   Mike Jensen begins building some of the earliest networks to connect the nonprofit sector, playing a key
+            role in establishing network connectivity for developing countries.
+
+1980    -   Jaap Akkerhuis Helps Connect the Netherlands and Europe, setting stage for global connectors.
+
+1981    -   Ira Funchs helps create BITNET
+
+1981    -   Danny Cohen adapts the visual simulator to run over the ARPAnet, the first application of packet- switching
+            networks to real-time applications.
+
+1982    -   First public WAN initiated
+
+1982    -   Kilnam Chon developed first Internet connection in Asia called SDN.
+
+1983    -   ARPAnet transitions to more flexible and powerful TCP/IP protocol suite.
+
+1983    -   Paul Mockapetris expands the Internet by inventing the Domain Name System (DNS).
+
+1984-89 -   Ben Segal convinces CERN that TCP/IP is the key to making the Internet functional.
+
+1984    -   Japan’s UNIX Network Developed.
+
+1984    -   The first email arrives in Germany from the U.S. on August 3, 1984.
+
+1985    -   First U.S. Research & Education Network Developed.
+
+1986    -   Craig Partridge Develops Modern Email Routing System using domain names.
+
+1987    -   The Hitchhiker’s Guide to the Internet is Published.
+
+1987    -   Florencio Utreras leads the connection of Chile to the BITNET network.
+
+1987    -   Nancy Hafkin Helps Develop ICT In Africa.
+
+1988    -   First Internet Exchange Point Established, connecting original federal TCP/IP networks and first U.S.
+            commercial and non-commercial Internet networks.
+1988    -   Thailand secure a Domain Name.
+
+1988    -   Daniel Karrenberg Helps Build First Pan-European ISP.
+
+1989    -   Van Jacobson develops algorithms for the Transmission Control Protocol (TCP) that help solve the problem of
+            congestion and are still used in over 90% of Internet hosts today.
+
+1989    -   Alan Emtage began development of first Internet search engine.
+
+1989    -   Global Internet Development grows, connecting 25 countries to the NSFNET.
+
+1989    -   Tim Berners-Lee Creates the World Wide Web (WWW).
+
+1989    -   Brewster Kahle invents the Internet’s first publishing system, WAIS (Wide Area Information Server) and
+            founds WAIS, Inc.
+
+1990    -   Stephen Kent Pioneers Internet Security Systems over open networks.
+
+1990    -   HTML is created!
+
+1990    -   Linus Torvalds creates Linux and becomes a leading supporter of Open Source software.
+
+1992    -   Dr. Haruhisa Ishida introduces UNIX computing and the concept of inter-networking to Japan.
+
+1993    -   Cioffi Standardizes DSL technology
+
+1996    -   Dr. Henning Schulzrinne co-develops key protocols that enable Voice over the Internet protocol (VoIP).
+
+1998    -   The advent of web publishing tools available to non-technical users spurs the rise of Blogs.
+
+1999    -   DNSSEC (Domain Name System Security Extensions) is created, the Internet protocol guards that enable users
+            to be sure they are visiting a secure site.
+
+1999    -   Mozilla is created.
+
+2000    -   Aaron Swartz co-creates RSS, a program that collects news from various web pages and puts them in one place.
+
+2001    -   Jimmy Wales Launches Wikipedia
+
+2004    -   Dorcas Muthoni founds OPENWORLD LTD, a software company which has been involved in the delivery of some of
+            the most widely used Web and cloud applications in Africa.
+
+2007    -   World’s Longest WiFi Record
+
+2010    -   China dominates the Internet by having over 450 million Chinese Internet users.
+
+2012    -   Internet Society Founds Internet Hall of Fame
