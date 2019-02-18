@@ -132,7 +132,7 @@
 
 1992    -   Dr. Haruhisa Ishida introduces UNIX computing and the concept of inter-networking to Japan.
 
-1993    -   Cioffi Standardizes DSL technology
+1993    -   Cioffi Standardizes DSL technology.
 
 1996    -   Dr. Henning Schulzrinne co-develops key protocols that enable Voice over the Internet protocol (VoIP).
 
@@ -145,16 +145,16 @@
 
 2000    -   Aaron Swartz co-creates RSS, a program that collects news from various web pages and puts them in one place.
 
-2001    -   Jimmy Wales Launches Wikipedia
+2001    -   Jimmy Wales Launches Wikipedia.
 
 2004    -   Dorcas Muthoni founds OPENWORLD LTD, a software company which has been involved in the delivery of some of
             the most widely used Web and cloud applications in Africa.
 
-2007    -   World’s Longest WiFi Record
+2007    -   World’s Longest WiFi Record.
 
 2010    -   China dominates the Internet by having over 450 million Chinese Internet users.
 
-2012    -   Internet Society Founds Internet Hall of Fame
+2012    -   Internet Society Founds Internet Hall of Fame.
 
 
 # BoilerPlate
