@@ -40,5 +40,14 @@
 21. (continuation from last line)
 22. (continuation from last line)
 23. (space)
+24. Comment about where to add site or application content
+25. Writes a paragraph saying that this is boilerplate
+26. Specifies the URL of the external script file
+27. Specifies the jQuery library being used.
+28. Loads in local script files
+29. Specifies the jQuery plugins that will be used.
+30. Specifies the main application script that will use the plugins from previous line of code.
+31. (space)
+
 
 
