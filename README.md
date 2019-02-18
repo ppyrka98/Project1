@@ -48,6 +48,14 @@
 29. Specifies the jQuery plugins that will be used.
 30. Specifies the main application script that will use the plugins from previous line of code.
 31. (space)
-
+32. Comment about how to change your site ID.
+33. starts the script tag to define a client side script.
+34. Contains info regarding the Google analytics for your page.
+35. Creates a new tracker object with the specified ID and sends a page view to Google Analytics from the current page.
+36. Closes the script tag
+37. Starts downloading the analytics.js library javascript library from the link.
+38. Closes the body tag
+39. (space)
+40. Closes the html tag.
 
 
