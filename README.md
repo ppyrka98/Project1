@@ -156,6 +156,7 @@
 
 2012    -   Internet Society Founds Internet Hall of Fame
 
+
 # BoilerPlate
 - **Doc folder** - Contains various information on different parts relating to the BoilerPlate project like FAQ's, the default javascript, info about customising your boilerplate,etc.
 - **img folder** - Contains the project's .gitignore file
@@ -171,7 +172,7 @@
 - **robots.txt** - Standard used by websites to communicate with other web robots.
 - **site.webmanifest** - Provides info about the application like name, author, icon, and description.
 - **tile-wide.png** - Image that can be used for wide tile.
-- **tile.png** - Image that can be used for small, medium, or large tiles.
+- **tile.png** - Image that can be used for small, medium, or large tiles
 
 **index.html**
 1. Declares that the document type will be HTML.
