@@ -136,6 +136,8 @@
 
 1996    -   Dr. Henning Schulzrinne co-develops key protocols that enable Voice over the Internet protocol (VoIP).
 
+1996    -   The first mobile phone with Internet connectivity was the Nokia 9000 Communicator
+
 1998    -   The advent of web publishing tools available to non-technical users spurs the rise of Blogs.
 
 1999    -   DNSSEC (Domain Name System Security Extensions) is created, the Internet protocol guards that enable users
@@ -151,6 +153,8 @@
             the most widely used Web and cloud applications in Africa.
 
 2007    -   World’s Longest WiFi Record.
+
+2009    -   Microsoft launched its new search engine, Bing.
 
 2010    -   The first Internet link into Outer Space was established on January 22, 2010
 
