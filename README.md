@@ -53,7 +53,7 @@
 34. Contains info regarding the Google analytics for your page.
 35. Creates a new tracker object with the specified ID and sends a page view to Google Analytics from the current page.
 36. Closes the script tag
-37. Starts downloading the analytics.js library javascript library from the link.
+37. Starts downloading the analytics.js javascript library from the link.
 38. Closes the body tag
 39. (space)
 40. Closes the html tag.
