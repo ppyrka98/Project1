@@ -20,6 +20,9 @@
 1. declares that the document type will be HTML.
 2. Removes the "no-js" class when javascript is available, otherwise it leaves it there.
 3. (space)
+4. Initiates the container for the metadata for the file
+5. Declares the character set for the website to utf-8, which is a character encoding capable of encoding all possible characters in Unicode.
+6. Chooses which version of Internet Explorer the page should load in as
 
 
 
