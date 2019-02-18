@@ -145,12 +145,14 @@
 
 2000    -   Aaron Swartz co-creates RSS, a program that collects news from various web pages and puts them in one place.
 
-2001    -   Jimmy Wales Launches Wikipedia.
+2001    -   Jimmy Wales Launched Wikipedia.
 
 2004    -   Dorcas Muthoni founds OPENWORLD LTD, a software company which has been involved in the delivery of some of
             the most widely used Web and cloud applications in Africa.
 
 2007    -   World’s Longest WiFi Record.
+
+2010    -   The first Internet link into Outer Space was established on January 22, 2010
 
 2010    -   China dominates the Internet by having over 450 million Chinese Internet users.
 
