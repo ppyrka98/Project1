@@ -269,3 +269,15 @@ To push or pull in Webstorm, click on the VCS icon in the top bar, click over Gi
 ![push](images/push.PNG)
 ---------------------
 ![pull](images/pull.PNG)
+
+### Step 6:
+##### Merging branches into master.
+Merging allows the user to take the independent lines of development they created in another branch and merge them into another branch or the master. To merge, make sure you are in the branch you want things to be 
+merged into first. Then, click on the Git icon in the bottom right of Webstorm, click on the branch your gonna merge, and then click merge into current.
+
+![merge](images/merge.PNG)
+
+Sometimes the user may run into a merge conflict problem, which happens when you and your partner's code are written on the same lines, so that when you want to merge them into master, Webstorm does
+not know which ones to put on which line. To fix this issue you must hand select which lines from both branches will go into which lines in the master through the window that pops up.
+
+![mergeconflict](images/mergeconflict.png)
