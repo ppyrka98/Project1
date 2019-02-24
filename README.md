@@ -233,3 +233,10 @@ GitHub is a web-based hosting service for version control using Git.
 ### Step 1: 
 #####Install git and create a GitHub account.  Also, Download Webstorm and create an account.
 ![download-git-for-windows](https://user-images.githubusercontent.com/47122096/53295549-d13f8300-37cb-11e9-991c-2c38bb86796d.png)
+
+### Step 2:
+#####Create a local git repository
+A repository is a new project.  You can create a new project that is not under version control or you can clone an existing Git repository.
+For the purpose of this class, we could be cloning by copying a link given either through slack or github. In the navigation bar, click VCS, scroll
+down to Git and click clone.  Copy and paste the repository link you are cloning, test it and click clone.
+![gitclone](https://user-images.githubusercontent.com/47122096/53303359-73488500-3837-11e9-99f2-cba02a1b40a7.png)
