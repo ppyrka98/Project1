@@ -223,6 +223,10 @@
 40. Closes the html tag.
 
 #Introduction to using Git, Github and Webstorm
+
+Git is a free and open source distributed version-control system for tracking changes in source code during software development.
+It coordinates work among programmers and tracks changes in a file.
+GitHub is a web-based hosting service for version control using Git.
 ![git pic](https://user-images.githubusercontent.com/47122096/53295439-7d339f00-37c9-11e9-8fb1-e02ded9f15a7.jpeg)
 ![webstorm-logo1](https://user-images.githubusercontent.com/47122096/53295481-e1566300-37c9-11e9-9a5d-90a0f2f74cfe.png)
 
