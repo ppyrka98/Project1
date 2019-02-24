@@ -225,3 +225,7 @@
 #Introduction to using Git, Github and Webstorm
 ![git pic](https://user-images.githubusercontent.com/47122096/53295439-7d339f00-37c9-11e9-8fb1-e02ded9f15a7.jpeg)
 ![webstorm-logo1](https://user-images.githubusercontent.com/47122096/53295481-e1566300-37c9-11e9-9a5d-90a0f2f74cfe.png)
+
+### Step 1: 
+#####Install git and create a GitHub account.  Also, Download Webstorm and create an account.
+![download-git-for-windows](https://user-images.githubusercontent.com/47122096/53295549-d13f8300-37cb-11e9-991c-2c38bb86796d.png)
