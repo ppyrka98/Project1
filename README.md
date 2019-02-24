@@ -248,3 +248,12 @@ when working in teams so that you and your partners can work freely at your own 
 a branch by clicking on the Git:master icon in the bottom right of Webstorm and selecting new branch.
 ![newbranch](images/newbranch.PNG)
 
+### Step 4:
+#####Making Commits to your project. 
+A commit is just recording any changes that you made to your repository. After making one or a few changes, it is a good idea to commit so that your work 
+gets saved. In order to make a commit, you must click on VCS in the top section of your bar in Webstorm and then press commit. Afterwards, add the title: Fix, Feature, or Task
+in commit message section followed by what you did. Finally, click the blue commit button on the bottom of the window.
+![commit](images/commit.PNG)
+
+--------------------------
+![finalize](images/finalizecommit.PNG)
