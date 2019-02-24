@@ -257,3 +257,15 @@ in commit message section followed by what you did. Finally, click the blue comm
 
 --------------------------
 ![finalize](images/finalizecommit.PNG)
+
+### Step 5:
+##### Pushing and Pulling to Github.
+Pushing and Pulling is one of the most used features in Webstorm. Pushing allows you to push any commits you made to the repository to github so that others can see it. Pulling does the opposite
+where it allows you to pull the latest version of your project or any changes that your partners made to it. Pushing is normally done right after you make a commit like in the previous step.
+To push or pull in Webstorm, click on the VCS icon in the top bar, click over Git, and the click either push or pull. Then select the branch you want to push to or pull from. 
+
+![pushorpull](images/pushorpull.PNG)
+----------------------------
+![push](images/push.PNG)
+---------------------
+![pull](images/pull.PNG)
