@@ -231,25 +231,25 @@ GitHub is a web-based hosting service for version control using Git.
 ![webstorm-logo1](https://user-images.githubusercontent.com/47122096/53295481-e1566300-37c9-11e9-9a5d-90a0f2f74cfe.png)
 
 ### Step 1: 
-#####Install git and create a GitHub account.  Also, Download Webstorm and create an account.
+##### Install git and create a GitHub account.  Also, Download Webstorm and create an account.
 ![download-git-for-windows](https://user-images.githubusercontent.com/47122096/53295549-d13f8300-37cb-11e9-991c-2c38bb86796d.png)
 
 ### Step 2:
-#####Create a local git repository
+##### Create a local git repository
 A repository is a new project.  You can create a new project that is not under version control or you can clone an existing Git repository.
 For the purpose of this class, we could be cloning by copying a link given either through slack or github. In the navigation bar, click VCS, scroll
 down to Git and click clone.  Copy and paste the repository link you are cloning, test it and click clone.
 ![gitclone](https://user-images.githubusercontent.com/47122096/53303359-73488500-3837-11e9-99f2-cba02a1b40a7.png)
 
 ### Step 3:
-#####Make a branch in Webstorm.
+##### Make a branch in Webstorm.
 A branch is basically a copy of the master that allows you to make edits/changes without effecting the main branch. Creating branches can be useful 
 when working in teams so that you and your partners can work freely at your own pace without worry of stepping over another person's work. You can create
 a branch by clicking on the Git:master icon in the bottom right of Webstorm and selecting new branch.
 ![newbranch](images/newbranch.PNG)
 
 ### Step 4:
-#####Making Commits to your project. 
+##### Making Commits to your project. 
 A commit is just recording any changes that you made to your repository. After making one or a few changes, it is a good idea to commit so that your work 
 gets saved. In order to make a commit, you must click on VCS in the top section of your bar in Webstorm and then press commit. Afterwards, add the title: Fix, Feature, or Task
 in commit message section followed by what you did. Finally, click the blue commit button on the bottom of the window.
