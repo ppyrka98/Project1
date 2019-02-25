@@ -237,7 +237,7 @@ GitHub is a web-based hosting service for version control using Git.
 ### Step 2:
 ##### Create a local git repository
 A repository is a new project.  You can create a new project that is not under version control or you can clone an existing Git repository.
-For the purpose of this class, we could be cloning by copying a link given either through slack or github. In the navigation bar, click VCS, scroll
+For the purpose of this class, we would be cloning by copying a link given either through slack or github. In the navigation bar, click VCS, scroll
 down to Git and click clone.  Copy and paste the repository link you are cloning, test it and click clone.
 ![gitclone](https://user-images.githubusercontent.com/47122096/53303359-73488500-3837-11e9-99f2-cba02a1b40a7.png)
 
@@ -281,3 +281,11 @@ Sometimes the user may run into a merge conflict problem, which happens when you
 not know which ones to put on which line. To fix this issue you must hand select which lines from both branches will go into which lines in the master through the window that pops up.
 
 ![mergeconflict](images/mergeconflict.png)
+
+###Step 7:
+##### Git Fetch and Remote
+The git fetch command downloads commits, files and refs from a remote repository into your local repo.  Fetching is what you do when you want to see what everyone else has been working on.  A fetched content has to be checked out using
+the git checkout command.  ![git checkout](https://user-images.githubusercontent.com/47122096/53346485-1905fd80-38e5-11e9-80ca-90de490850b9.png)
+A remote is basically a bookmark for a different repository from when you wish to pull or push code.  Git keeps remote and local branch commits distinctly separate through the use of branch refs.
+Remote branches are like local branches except they map to commits from someone else repository.
+![image](https://user-images.githubusercontent.com/47122096/53346733-9f224400-38e5-11e9-8cd9-5483a96c4de9.png)  
