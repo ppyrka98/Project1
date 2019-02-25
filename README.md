@@ -283,7 +283,7 @@ not know which ones to put on which line. To fix this issue you must hand select
 
 ![mergeconflict](images/mergeconflict.png)
 
-###Step 7:
+### Step 7:
 ##### Git Fetch and Remote
 The git fetch command downloads commits, files and refs from a remote repository into your local repo.  Fetching is what you do when you want to see what everyone else has been working on.  A fetched content has to be checked out using
 the git checkout command.  ![git checkout](https://user-images.githubusercontent.com/47122096/53346485-1905fd80-38e5-11e9-80ca-90de490850b9.png)
