@@ -245,7 +245,7 @@ down to Git and click clone.  Copy and paste the repository link you are cloning
 ##### Make a branch in Webstorm.
 A branch is basically a copy of the master that allows you to make edits/changes without effecting the main branch. Creating branches can be useful 
 when working in teams so that you and your partners can work freely at your own pace without worry of stepping over another person's work. You can create
-a branch by clicking on the Git:master icon in the bottom right of Webstorm and selecting new branch.
+a branch by clicking on the Git: master icon in the bottom right of Webstorm and selecting new branch.
 ![newbranch](images/newbranch.PNG)
 
 ### Step 4:
