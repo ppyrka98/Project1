@@ -222,7 +222,7 @@
 39. (space)
 40. Closes the html tag.
 
-#Introduction to using Git, Github and Webstorm
+# Introduction to using Git, Github and Webstorm
 
 Git is a free and open source distributed version-control system for tracking changes in source code during software development.
 It coordinates work among programmers and tracks changes in a file.
